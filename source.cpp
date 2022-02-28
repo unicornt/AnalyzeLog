@@ -12,7 +12,7 @@ void Analyze(string s) {
         case 'm':
             // marking XXXXXXX for optimized recompilation
             // marking XXXXXXX for deoptimization
-            // get sfi of the function & save it if never meet it before
+            // get sfi of the function & save it if never meet it before init it as "init"
             // mark it as "marking"
             // deoptimization: get last optimized
             break;
@@ -28,6 +28,8 @@ void Analyze(string s) {
             break;
         case 'b':
             // bailout 
+            // get reason & record it
+            // mark it as "init"
             break;
         default:
             break;
