@@ -81,6 +81,18 @@ void Analyze(string s) {
             // marking XXXXXXX for deoptimization
             // get sfi of the function & save it if never meet it before
             sfi = GetSFI(s);
+            // get sfi of the function & save it if never meet it before init it as "init"
+            // mark it as "marking"
+            // deoptimization: get last optimized
+            if(sfi == null_str) {
+                // error
+                cout << "error: no sfi" << std::endl;
+                exit(1);
+            }
+            if(sfiTable.find(sfi) == sfiTable.end()) {
+                // new sfi
+                NewSFI(sfi);
+            }
             int sn = sfiTable[sfi];
             // mark it as "marked/demarked"
             ChangeStatus(sn, CheckTar(s), GetReason(s));
