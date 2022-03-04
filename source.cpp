@@ -18,6 +18,11 @@ void throw_error(string reason, string lines) {
     exit(1);
 }
 
+void throw_error(string reason) {
+    cout << "error: " << reason << std::endl;
+    exit(1);
+}
+
 void AnalyzeCode(string s) {
 
 }
@@ -138,6 +143,7 @@ void Analyze(string s) {
         case 'o':
             // optimizing 
             // mark it as "optimizing"
+            if(s[2] != 't') break;
             sfi = GetSFI(s);
             if(sfi == null_str) {
                 // error
@@ -166,9 +172,13 @@ void Analyze(string s) {
         }
     }
 }
-int main() {
+int main(int argc, char* argv[]) {
+    cout << argc << endl;
+    if(argc < 2) {
+        throw_error("Too less arguement!");
+    }
     ifstream fp;
-    fp.open("log/log-with-bytecode.txt", ios::in);
+    fp.open(argv[1], ios::in);
     string ls;
     while(!fp.eof() && fp.good()) {
         getline(fp, ls);
