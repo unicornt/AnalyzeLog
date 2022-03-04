@@ -2,6 +2,11 @@
 <script>
     if(turbojs) {
         var foo = turbojs.alloc(1e6);
+        var nFactor = 4;
         for (var i = 0; i < 1e6; i++) foo.data[i] = i;
+        turbojs.run(foo, `void main(void) {
+            commit(read() * ${nFactor}.);
+        }`);
+        console.log(foo.data.subarray(0, 5));
     }
 </script>
