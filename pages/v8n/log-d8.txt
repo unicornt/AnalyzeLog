@@ -1,0 +1,449 @@
+[not yet optimizing get, not enough ticks: 1/3 and ICs changed]
+[not yet optimizing , not enough ticks: 1/3 and  too large for small function optimization: 109/81]
+[not yet optimizing _test, not enough ticks: 1/3 and  too large for small function optimization: 101/81]
+[not yet optimizing get, not enough ticks: 2/3 and  too large for small function optimization: 134/81]
+[marking 0x3885003027b1 <JSFunction proxyContext (sfi = 0x388500254a75)> for optimized recompilation, reason: small function]
+[compiling method 0x3885003027b1 <JSFunction proxyContext (sfi = 0x388500254a75)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885003027b1 <JSFunction proxyContext (sfi = 0x388500254a75)> (target TURBOFAN) - took 0.232, 15.463, 0.535 ms]
+[completed optimizing 0x3885003027b1 <JSFunction proxyContext (sfi = 0x388500254a75)> (target TURBOFAN)]
+[not yet optimizing , not enough ticks: 2/3 and  too large for small function optimization: 109/81]
+[marking 0x3885003f9ef1 <JSFunction get (sfi = 0x38850025a1bd)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x3885003fa09d <JSFunction get (sfi = 0x38850025a1bd)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885003fa09d <JSFunction get (sfi = 0x38850025a1bd)> (target TURBOFAN) - took 0.133, 50.723, 1.351 ms]
+[completed optimizing 0x3885003fa09d <JSFunction get (sfi = 0x38850025a1bd)> (target TURBOFAN)]
+[marking 0x3885001261ad <JSFunction (sfi = 0x38850025a50d)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x388500126359 <JSFunction (sfi = 0x38850025a50d)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500126359 <JSFunction (sfi = 0x38850025a50d)> (target TURBOFAN) - took 0.127, 50.181, 1.043 ms]
+[completed optimizing 0x388500126359 <JSFunction (sfi = 0x38850025a50d)> (target TURBOFAN)]
+[marking 0x38850013a279 <JSFunction (sfi = 0x38850025a7b1)> for optimized recompilation, reason: small function]
+[not yet optimizing _test, not enough ticks: 2/3 and  too large for small function optimization: 101/81]
+[compiling method 0x38850013a6e5 <JSFunction (sfi = 0x38850025a7b1)> (target TURBOFAN) using TurboFan]
+[optimizing 0x38850013a6e5 <JSFunction (sfi = 0x38850025a7b1)> (target TURBOFAN) - took 0.127, 12.691, 0.350 ms]
+[completed optimizing 0x38850013a6e5 <JSFunction (sfi = 0x38850025a7b1)> (target TURBOFAN)]
+[marking 0x3885002cfb41 <JSFunction pickFn (sfi = 0x388500254789)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002cfb41 <JSFunction pickFn (sfi = 0x388500254789)> (target TURBOFAN) using TurboFan]
+[not yet optimizing , not enough ticks: 1/3 and  too large for small function optimization: 300/81]
+[optimizing 0x3885002cfb41 <JSFunction pickFn (sfi = 0x388500254789)> (target TURBOFAN) - took 0.136, 7.377, 0.207 ms]
+[completed optimizing 0x3885002cfb41 <JSFunction pickFn (sfi = 0x388500254789)> (target TURBOFAN)]
+[marking 0x3885002cfaa9 <JSFunction Context (sfi = 0x388500255759)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002cfaa9 <JSFunction Context (sfi = 0x388500255759)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885002cfaa9 <JSFunction Context (sfi = 0x388500255759)> (target TURBOFAN) - took 0.143, 12.554, 0.838 ms]
+[completed optimizing 0x3885002cfaa9 <JSFunction Context (sfi = 0x388500255759)> (target TURBOFAN)]
+[marking 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> (target TURBOFAN) - took 0.126, 9.646, 0.256 ms]
+[completed optimizing 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> (target TURBOFAN)]
+[marking 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> (target TURBOFAN) - took 0.128, 28.569, 0.618 ms]
+[completed optimizing 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> (target TURBOFAN)]
+[not yet optimizing , not enough ticks: 2/3 and  too large for small function optimization: 300/81]
+[marking 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> for optimized recompilation, reason: small function]
+[compiling method 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> (target TURBOFAN) - took 0.128, 50.668, 0.854 ms]
+[completed optimizing 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> (target TURBOFAN)]
+[marking 0x3885002cfa1d <JSFunction v8n (sfi = 0x388500254a3d)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002cfa1d <JSFunction v8n (sfi = 0x388500254a3d)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885002cfa1d <JSFunction v8n (sfi = 0x388500254a3d)> (target TURBOFAN) - took 0.129, 20.418, 0.733 ms]
+[completed optimizing 0x3885002cfa1d <JSFunction v8n (sfi = 0x388500254a3d)> (target TURBOFAN)]
+[marking 0x3885002598b1 <JSFunction (sfi = 0x388500254371)> for optimized recompilation, reason: hot and stable]
+[marking 0x38850033ac5d <JSFunction (sfi = 0x38850025a965)> for optimized recompilation, reason: small function]
+[compiling method 0x38850033b099 <JSFunction (sfi = 0x38850025a965)> (target TURBOFAN) using TurboFan]
+[optimizing 0x38850033b099 <JSFunction (sfi = 0x38850025a965)> (target TURBOFAN) - took 0.123, 13.816, 0.230 ms]
+[completed optimizing 0x38850033b099 <JSFunction (sfi = 0x38850025a965)> (target TURBOFAN)]
+[marking 0x3885002cfb61 <JSFunction testType (sfi = 0x388500254ed5)> for optimized recompilation, reason: small function]
+[marking 0x3885002d00d5 <JSFunction first (sfi = 0x388500257419)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002cfb61 <JSFunction testType (sfi = 0x388500254ed5)> (target TURBOFAN) using TurboFan]
+[compiling method 0x3885002d00d5 <JSFunction first (sfi = 0x388500257419)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885002cfb61 <JSFunction testType (sfi = 0x388500254ed5)> (target TURBOFAN) - took 0.130, 7.979, 0.222 ms]
+[completed optimizing 0x3885002cfb61 <JSFunction testType (sfi = 0x388500254ed5)> (target TURBOFAN)]
+[optimizing 0x3885002d00d5 <JSFunction first (sfi = 0x388500257419)> (target TURBOFAN) - took 0.122, 7.545, 0.180 ms]
+[completed optimizing 0x3885002d00d5 <JSFunction first (sfi = 0x388500257419)> (target TURBOFAN)]
+[bailout (kind: deopt-soft, reason: Insufficient type feedback for generic named access): begin. deoptimizing 0x38850035a995 <JSFunction get (sfi = 0x38850025a1bd)>, opt id 1, node id 61, bytecode offset 45, deopt exit 10, FP to SP delta 88, caller SP 0x7ffcb33ac120, pc 0x7f744808c0cf]
+            ;;; deoptimize at <pages/v8n/v8n-test.js:225:31>
+  reading input frame get => bytecode_offset=45, args=3, height=4, retval=0(#0); inputs:
+      0: 0x38850035a995 ;  [fp -  32]  0x38850035a995 <JSFunction get (sfi = 0x38850025a1bd)>
+      1: 0x38850035a985 ;  [fp +  16]  0x38850035a985 <Object map = 0x388500288689>
+      2: 0x38850035a93d ;  [fp +  24]  0x38850035a93d <Context map = 0x388500288639>
+      3: 0x3885001c2641 ;  [fp +  32]  0x3885001c2641 <String[4]: #some>
+      4: 0x38850035a971 ;  [fp -  40]  0x38850035a971 <FunctionContext[3]>
+      5: 0x38850035aa3d ;  [fp -  48]  0x38850035aa3d <JSProxy>
+      6: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      7: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      8: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      9: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+  translating baseline frame get => bytecode_offset=45, variable_frame_size=40, frame_size=120
+    -- 1 extra argument(s) already in the stack --
+    0x7ffcb33ac118: [top + 112] <- 0x3885001c2641 <String[4]: #some> ;  stack parameter (input #3)
+    0x7ffcb33ac110: [top + 104] <- 0x38850035a93d <Context map = 0x388500288639> ;  stack parameter (input #2)
+    0x7ffcb33ac108: [top +  96] <- 0x38850035a985 <Object map = 0x388500288689> ;  stack parameter (input #1)
+    -------------------------
+    0x7ffcb33ac100: [top +  88] <- 0x7f744f640f5c ;  bottommost caller's pc
+    0x7ffcb33ac0f8: [top +  80] <- 0x7ffcb33ac138 ;  caller's fp
+    0x7ffcb33ac0f0: [top +  72] <- 0x38850035a971 <FunctionContext[3]> ;  context (input #4)
+    0x7ffcb33ac0e8: [top +  64] <- 0x38850035a995 <JSFunction get (sfi = 0x38850025a1bd)> ;  function (input #0)
+    0x7ffcb33ac0e0: [top +  56] <- 0x000000000004 ;  actual argument count
+    0x7ffcb33ac0d8: [top +  48] <- 0x38850025a2f1 <BytecodeArray[134]> ;  bytecode array
+    0x7ffcb33ac0d0: [top +  40] <- 0x00000000009c <Smi 78> ;  bytecode offset
+    -------------------------
+    0x7ffcb33ac0c8: [top +  32] <- 0x38850035aa3d <JSProxy> ;  stack parameter (input #5)
+    0x7ffcb33ac0c0: [top +  24] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #6)
+    0x7ffcb33ac0b8: [top +  16] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #7)
+    0x7ffcb33ac0b0: [top +   8] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #8)
+    0x7ffcb33ac0a8: [top +   0] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  accumulator (input #9)
+[bailout end. took 0.745 ms]
+[evicting optimized code marked for deoptimization (unlinking code marked for deopt) for 0x38850025a1bd <SharedFunctionInfo get>]
+[bailout (kind: deopt-eager, reason: wrong map): begin. deoptimizing 0x388500259f09 <JSFunction test (sfi = 0x388500255915)>, opt id 8, node id 560, bytecode offset 0, deopt exit 6, FP to SP delta 96, caller SP 0x7ffcb33ad208, pc 0x7f744809330f]
+            ;;; deoptimize at <pages/v8n/v8n-test.js:15:32> inlined at <pages/v8n/v8n-test.js:149:61> inlined at <pages/v8n/v8n-test.js:149:25>
+  reading input frame test => bytecode_offset=24, args=2, height=4, retval=0(#0); inputs:
+      0: 0x388500259f09 ;  [fp -  16]  0x388500259f09 <JSFunction test (sfi = 0x388500255915)>
+      1: 0x38850035ac6d ;  [fp +  16]  0x38850035ac6d <JSProxy>
+      2: 0x38850035ad75 ;  [fp +  24]  0x38850035ad75 <JSArray[3]>
+      3: 0x38850035ad8d ;  [fp -  32]  0x38850035ad8d <FunctionContext[3]>
+      4: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      5: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      6: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      7: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      8: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+  reading JavaScript builtin continuation frame every => bytecode_offset=956, height=8; inputs:
+      0: 0x38850024c4e5 ; (literal 13) 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)>
+      1: 0x38850035abe9 ;  [fp -  40]  0x38850035abe9 <JSArray[1]>
+      2: captured object #0 (length = 8)
+           0x388500282329 ; (literal 14) 0x388500282329 <Map(HOLEY_ELEMENTS)>
+           0x388500002261 ; (literal 15) 0x388500002261 <FixedArray[0]>
+           0x388500002261 ; (literal 15) 0x388500002261 <FixedArray[0]>
+           0x38850025aa45 ; (literal  0) 0x38850025aa45 <SharedFunctionInfo>
+           0x38850035ad8d ; rbx 0x38850035ad8d <FunctionContext[3]>
+           0x38850025ab09 ; (literal 16) 0x38850025ab09 <FeedbackCell[many closures]>
+           0x3885001cb8e1 ; (literal 17) 0x3885001cb8e1 <Other heap object (CODE_DATA_CONTAINER_TYPE)>
+           0x388500002461 ; (literal 18) 0x388500002461 <the_hole>
+      3: 0x3885000023e9 ; (literal 19) 0x3885000023e9 <undefined>
+      4: 0 ; rax (int32)
+      5: 0x388500000002 ;  [fp -  56]  1
+      6: 0x38850024c4e5 ; (literal 13) 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)>
+      7: 0x3885000023e9 ; (literal 19) 0x3885000023e9 <undefined>
+      8: 0x38850000000c ; (literal 22) 6
+      9: 0x388500243679 ; (literal 21) 0x388500243679 <NativeContext[269]>
+  reading arguments adaptor frame  => height=4; inputs:
+      0: duplicated object #0
+      1: 0x3885000023e9 ; (literal 19) 0x3885000023e9 <undefined>
+      2: 0x38850035acfd ; rdx 0x38850035acfd <Rule map = 0x388500288779>
+      3: 0 ; rax (int32)
+      4: 0x38850035abe9 ;  [fp -  40]  0x38850035abe9 <JSArray[1]>
+  reading input frame  => bytecode_offset=8, args=2, height=3, retval=0(#0); inputs:
+      0: duplicated object #0
+      1: 0x3885000023e9 ; (literal 19) 0x3885000023e9 <undefined>
+      2: 0x38850035acfd ; rdx 0x38850035acfd <Rule map = 0x388500288779>
+      3: 0x38850035ad8d ;  [fp -  32]  0x38850035ad8d <FunctionContext[3]>
+      4: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      5: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      6: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      7: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+  reading input frame _test => bytecode_offset=0, args=2, height=6, retval=0(#0); inputs:
+      0: 0x388500259db9 ; (literal 23) 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)>
+      1: 0x38850035acfd ; rdx 0x38850035acfd <Rule map = 0x388500288779>
+      2: 0x38850035ad75 ; rsi 0x38850035ad75 <JSArray[3]>
+      3: 0x3885002cfa3d ; (literal 24) 0x3885002cfa3d <FunctionContext[19]>
+      4: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      5: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      6: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      7: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      8: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+      9: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+     10: 0x3885000028c9 ; (literal 10) 0x3885000028c9 <Odd Oddball: optimized_out>
+  translating baseline frame test => bytecode_offset=24, variable_frame_size=32, frame_size=104
+    0x7ffcb33ad200: [top +  96] <- 0x38850035ad75 <JSArray[3]> ;  stack parameter (input #2)
+    0x7ffcb33ad1f8: [top +  88] <- 0x38850035ac6d <JSProxy> ;  stack parameter (input #1)
+    -------------------------
+    0x7ffcb33ad1f0: [top +  80] <- 0x7f744808f718 ;  bottommost caller's pc
+    0x7ffcb33ad1e8: [top +  72] <- 0x7ffcb33ad258 ;  caller's fp
+    0x7ffcb33ad1e0: [top +  64] <- 0x38850035ad8d <FunctionContext[3]> ;  context (input #3)
+    0x7ffcb33ad1d8: [top +  56] <- 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> ;  function (input #0)
+    0x7ffcb33ad1d0: [top +  48] <- 0x000000000002 ;  actual argument count
+    0x7ffcb33ad1c8: [top +  40] <- 0x38850025aa95 <BytecodeArray[30]> ;  bytecode array
+    0x7ffcb33ad1c0: [top +  32] <- 0x000000000072 <Smi 57> ;  bytecode offset
+    -------------------------
+    0x7ffcb33ad1b8: [top +  24] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #4)
+    0x7ffcb33ad1b0: [top +  16] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #5)
+    0x7ffcb33ad1a8: [top +   8] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #6)
+    0x7ffcb33ad1a0: [top +   0] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #7)
+  translating BuiltinContinuation to ArrayEveryLoopLazyDeoptContinuation, => register_param_count=3, stack_param_count=6, frame_size=192
+    0x7ffcb33ad198: [top + 184] <- 0x388500002461 <the_hole> ;  placeholder for return result on lazy deopt
+    0x7ffcb33ad190: [top + 176] <- 0x388500000002 <Smi 1> ;  stack parameter (input #5)
+    0x7ffcb33ad188: [top + 168] <- 0x000000000000 <Smi 0> ;  stack parameter (input #4)
+    0x7ffcb33ad180: [top + 160] <- 0x3885000023e9 <undefined> ;  stack parameter (input #3)
+    0x7ffcb33ad178: [top + 152] <- 0x3885000027a5 <Odd Oddball: arguments_marker> ;  stack parameter (input #2)
+    0x7ffcb33ad170: [top + 144] <- 0x38850035abe9 <JSArray[1]> ;  stack parameter (input #1)
+    0x7ffcb33ad168: [top + 136] <- 0x7f744f64ae40 ;  caller's pc
+    0x7ffcb33ad160: [top + 128] <- 0x7ffcb33ad1e8 ;  caller's fp
+    0x7ffcb33ad158: [top + 120] <- 0x000000000022 ;  context (builtin continuation sentinel)
+    0x7ffcb33ad150: [top + 112] <- 0x38850024c4e5 ;  JSFunction
+    0x7ffcb33ad148: [top + 104] <- 0x000000000100 <Smi 128> ;  frame height at deoptimization
+    0x7ffcb33ad140: [top +  96] <- 0x388500243679 <NativeContext[269]> ;  builtin JavaScript context
+ (input #9)
+    0x7ffcb33ad138: [top +  88] <- 0x000000000776 <Smi 955> ;  builtin index
+    0x7ffcb33ad130: [top +  80] <- 0x38850000000c <Smi 6> ;  tagged argument count rax (will be untagged by continuation)
+ (input #8)
+    0x7ffcb33ad128: [top +  72] <- 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)> ;  builtin register argument rbx
+ (input #6)
+    0x7ffcb33ad120: [top +  64] <- 0x3885000023e9 <undefined> ;  builtin register argument rdx
+ (input #7)
+    0x7ffcb33ad118: [top +  56] <- 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)> ;  builtin register argument rcx
+ (input #6)
+    0x7ffcb33ad110: [top +  48] <- 0x388500243679 <NativeContext[269]> ;  builtin register argument rsi
+ (input #9)
+    0x7ffcb33ad108: [top +  40] <- 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)> ;  builtin register argument rdi
+ (input #6)
+    0x7ffcb33ad100: [top +  32] <- 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)> ;  builtin register argument r8
+ (input #6)
+    0x7ffcb33ad0f8: [top +  24] <- 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)> ;  builtin register argument r9
+ (input #6)
+    0x7ffcb33ad0f0: [top +  16] <- 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)> ;  builtin register argument r11
+ (input #6)
+    0x7ffcb33ad0e8: [top +   8] <- 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)> ;  builtin register argument r12
+ (input #6)
+    0x7ffcb33ad0e0: [top +   0] <- 0x38850024c4e5 <JSFunction every (sfi = 0x3885001e0aa1)> ;  builtin register argument r15
+ (input #6)
+  translating arguments adaptor => variable_size=16
+    0x7ffcb33ad0d8: [top +   8] <- 0x38850035abe9 <JSArray[1]> ;  stack parameter (input #4)
+    0x7ffcb33ad0d0: [top +   0] <- 0x000000000000 <Smi 0> ;  stack parameter (input #3)
+  translating baseline frame  => bytecode_offset=8, variable_frame_size=24, frame_size=96
+    0x7ffcb33ad0c8: [top +  88] <- 0x38850035acfd <Rule map = 0x388500288779> ;  stack parameter (input #2)
+    0x7ffcb33ad0c0: [top +  80] <- 0x3885000023e9 <undefined> ;  stack parameter (input #1)
+    -------------------------
+    0x7ffcb33ad0b8: [top +  72] <- 0x7f744f64cd40 ;  caller's pc
+    0x7ffcb33ad0b0: [top +  64] <- 0x7ffcb33ad160 ;  caller's fp
+    0x7ffcb33ad0a8: [top +  56] <- 0x38850035ad8d <FunctionContext[3]> ;  context (input #3)
+    0x7ffcb33ad0a0: [top +  48] <- 0x3885000027a5 <Odd Oddball: arguments_marker> ;  function (input #0)
+    0x7ffcb33ad098: [top +  40] <- 0x000000000004 ;  actual argument count
+    0x7ffcb33ad090: [top +  32] <- 0x38850025ab49 <BytecodeArray[14]> ;  bytecode array
+    0x7ffcb33ad088: [top +  24] <- 0x000000000052 <Smi 41> ;  bytecode offset
+    -------------------------
+    0x7ffcb33ad080: [top +  16] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #4)
+    0x7ffcb33ad078: [top +   8] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #5)
+    0x7ffcb33ad070: [top +   0] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #6)
+  translating baseline frame _test => bytecode_offset=0, variable_frame_size=56, frame_size=128
+    0x7ffcb33ad068: [top + 120] <- 0x38850035ad75 <JSArray[3]> ;  stack parameter (input #2)
+    0x7ffcb33ad060: [top + 112] <- 0x38850035acfd <Rule map = 0x388500288779> ;  stack parameter (input #1)
+    -------------------------
+    0x7ffcb33ad058: [top + 104] <- 0x7f744f64ae40 ;  caller's pc
+    0x7ffcb33ad050: [top +  96] <- 0x7ffcb33ad0b0 ;  caller's fp
+    0x7ffcb33ad048: [top +  88] <- 0x3885002cfa3d <FunctionContext[19]> ;  context (input #3)
+    0x7ffcb33ad040: [top +  80] <- 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> ;  function (input #0)
+    0x7ffcb33ad038: [top +  72] <- 0x000000000002 ;  actual argument count
+    0x7ffcb33ad030: [top +  64] <- 0x38850025ac7d <BytecodeArray[101]> ;  bytecode array
+    0x7ffcb33ad028: [top +  56] <- 0x000000000042 <Smi 33> ;  bytecode offset
+    -------------------------
+    0x7ffcb33ad020: [top +  48] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #4)
+    0x7ffcb33ad018: [top +  40] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #5)
+    0x7ffcb33ad010: [top +  32] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #6)
+    0x7ffcb33ad008: [top +  24] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #7)
+    0x7ffcb33ad000: [top +  16] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #8)
+    0x7ffcb33acff8: [top +   8] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #9)
+    0x7ffcb33acff0: [top +   0] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  accumulator (input #10)
+[bailout end. took 2.120 ms]
+Materialization [0x7ffcb33ad178] <- 0x3885002605fd ;  0x3885002605fd <JSFunction (sfi = 0x38850025aa45)>
+Materialization [0x7ffcb33ad0a0] <- 0x3885002605fd ;  0x3885002605fd <JSFunction (sfi = 0x38850025aa45)>
+[bailout (kind: deopt-eager, reason: wrong map): begin. deoptimizing 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)>, opt id 6, node id 112, bytecode offset 0, deopt exit 1, FP to SP delta 32, caller SP 0x7ffcb33acff8, pc 0x7f7448092955]
+            ;;; deoptimize at <pages/v8n/v8n-test.js:67:21>
+  reading input frame testAux => bytecode_offset=0, args=3, height=3, retval=0(#0); inputs:
+      0: 0x3885002cfb21 ;  [fp -  16]  0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)>
+      1: 0x3885000023e9 ;  [fp +  16]  0x3885000023e9 <undefined>
+      2: 0x38850035adad ; rdx 0x38850035adad <JSArray[1]>
+      3: 0x38850035acdd ;  [fp +  32]  0x38850035acdd <JSFunction (sfi = 0x3885002602d9)>
+      4: 0x3885002cfa3d ;  [fp -  32]  0x3885002cfa3d <FunctionContext[19]>
+      5: 0x3885000028c9 ; (literal  4) 0x3885000028c9 <Odd Oddball: optimized_out>
+      6: 0x3885000028c9 ; (literal  4) 0x3885000028c9 <Odd Oddball: optimized_out>
+      7: 0x3885000028c9 ; (literal  4) 0x3885000028c9 <Odd Oddball: optimized_out>
+      8: 0x3885000028c9 ; (literal  4) 0x3885000028c9 <Odd Oddball: optimized_out>
+  translating baseline frame testAux => bytecode_offset=0, variable_frame_size=32, frame_size=112
+    0x7ffcb33acff0: [top + 104] <- 0x38850035acdd <JSFunction (sfi = 0x3885002602d9)> ;  stack parameter (input #3)
+    0x7ffcb33acfe8: [top +  96] <- 0x38850035adad <JSArray[1]> ;  stack parameter (input #2)
+    0x7ffcb33acfe0: [top +  88] <- 0x3885000023e9 <undefined> ;  stack parameter (input #1)
+    -------------------------
+    0x7ffcb33acfd8: [top +  80] <- 0x7f744808457a ;  bottommost caller's pc
+    0x7ffcb33acfd0: [top +  72] <- 0x7ffcb33ad050 ;  caller's fp
+    0x7ffcb33acfc8: [top +  64] <- 0x3885002cfa3d <FunctionContext[19]> ;  context (input #4)
+    0x7ffcb33acfc0: [top +  56] <- 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> ;  function (input #0)
+    0x7ffcb33acfb8: [top +  48] <- 0x000000000003 ;  actual argument count
+    0x7ffcb33acfb0: [top +  40] <- 0x38850025ada9 <BytecodeArray[44]> ;  bytecode array
+    0x7ffcb33acfa8: [top +  32] <- 0x000000000042 <Smi 33> ;  bytecode offset
+    -------------------------
+    0x7ffcb33acfa0: [top +  24] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #5)
+    0x7ffcb33acf98: [top +  16] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #6)
+    0x7ffcb33acf90: [top +   8] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #7)
+    0x7ffcb33acf88: [top +   0] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  accumulator (input #8)
+[bailout end. took 0.631 ms]
+[bailout (kind: deopt-eager, reason: wrong map): begin. deoptimizing 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)>, opt id 7, node id 355, bytecode offset 0, deopt exit 2, FP to SP delta 48, caller SP 0x7ffcb33ad090, pc 0x7f7448092d01]
+            ;;; deoptimize at <pages/v8n/v8n-test.js:15:32>
+  reading input frame _test => bytecode_offset=0, args=2, height=6, retval=0(#0); inputs:
+      0: 0x388500259db9 ;  [fp -  16]  0x388500259db9 <JSFunction _test (sfi = 0x388500255331)>
+      1: 0x38850035b141 ; rcx 0x38850035b141 <Rule map = 0x388500288779>
+      2: 0x38850035b1b9 ;  [fp +  24]  0x38850035b1b9 <JSArray[3]>
+      3: 0x3885002cfa3d ;  [fp -  32]  0x3885002cfa3d <FunctionContext[19]>
+      4: 0x3885000028c9 ; (literal  6) 0x3885000028c9 <Odd Oddball: optimized_out>
+      5: 0x3885000028c9 ; (literal  6) 0x3885000028c9 <Odd Oddball: optimized_out>
+      6: 0x3885000028c9 ; (literal  6) 0x3885000028c9 <Odd Oddball: optimized_out>
+      7: 0x3885000028c9 ; (literal  6) 0x3885000028c9 <Odd Oddball: optimized_out>
+      8: 0x3885000028c9 ; (literal  6) 0x3885000028c9 <Odd Oddball: optimized_out>
+      9: 0x3885000028c9 ; (literal  6) 0x3885000028c9 <Odd Oddball: optimized_out>
+     10: 0x3885000028c9 ; (literal  6) 0x3885000028c9 <Odd Oddball: optimized_out>
+  translating baseline frame _test => bytecode_offset=0, variable_frame_size=56, frame_size=128
+    0x7ffcb33ad088: [top + 120] <- 0x38850035b1b9 <JSArray[3]> ;  stack parameter (input #2)
+    0x7ffcb33ad080: [top + 112] <- 0x38850035b141 <Rule map = 0x388500288779> ;  stack parameter (input #1)
+    -------------------------
+    0x7ffcb33ad078: [top + 104] <- 0x7f744808a7fc ;  bottommost caller's pc
+    0x7ffcb33ad070: [top +  96] <- 0x7ffcb33ad0d0 ;  caller's fp
+    0x7ffcb33ad068: [top +  88] <- 0x3885002cfa3d <FunctionContext[19]> ;  context (input #3)
+    0x7ffcb33ad060: [top +  80] <- 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> ;  function (input #0)
+    0x7ffcb33ad058: [top +  72] <- 0x000000000002 ;  actual argument count
+    0x7ffcb33ad050: [top +  64] <- 0x38850025ac7d <BytecodeArray[101]> ;  bytecode array
+    0x7ffcb33ad048: [top +  56] <- 0x000000000042 <Smi 33> ;  bytecode offset
+    -------------------------
+    0x7ffcb33ad040: [top +  48] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #4)
+    0x7ffcb33ad038: [top +  40] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #5)
+    0x7ffcb33ad030: [top +  32] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #6)
+    0x7ffcb33ad028: [top +  24] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #7)
+    0x7ffcb33ad020: [top +  16] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #8)
+    0x7ffcb33ad018: [top +   8] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #9)
+    0x7ffcb33ad010: [top +   0] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  accumulator (input #10)
+[bailout end. took 0.669 ms]
+[deoptimizer found activation of function: every / 38850024c4e5]
+[not yet optimizing _clone, not enough ticks: 1/3 and ICs changed]
+[marking 0x3885003de15d <JSFunction (sfi = 0x38850025aa45)> for optimized recompilation, reason: small function]
+[compiling method 0x3885003de439 <JSFunction (sfi = 0x38850025aa45)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885003de439 <JSFunction (sfi = 0x38850025aa45)> (target TURBOFAN) - took 0.125, 75.415, 1.141 ms]
+[completed optimizing 0x3885003de439 <JSFunction (sfi = 0x38850025aa45)> (target TURBOFAN)]
+[not yet optimizing get, not enough ticks: 1/3 and  too large for small function optimization: 134/81]
+[not yet optimizing get, not enough ticks: 2/3 and  too large for small function optimization: 134/81]
+[marking 0x38850031f6ed <JSFunction get (sfi = 0x38850025a1bd)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x38850031f775 <JSFunction get (sfi = 0x38850025a1bd)> (target TURBOFAN) using TurboFan]
+[optimizing 0x38850031f775 <JSFunction get (sfi = 0x38850025a1bd)> (target TURBOFAN) - took 0.123, 50.784, 1.125 ms]
+[completed optimizing 0x38850031f775 <JSFunction get (sfi = 0x38850025a1bd)> (target TURBOFAN)]
+[marking 0x3885001ab0e1 <JSFunction (sfi = 0x3885002602d9)> for optimized recompilation, reason: small function]
+[compiling method 0x3885001ab0e1 <JSFunction (sfi = 0x3885002602d9)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885001ab0e1 <JSFunction (sfi = 0x3885002602d9)> (target TURBOFAN) - took 0.126, 8.907, 0.218 ms]
+[completed optimizing 0x3885001ab0e1 <JSFunction (sfi = 0x3885002602d9)> (target TURBOFAN)]
+[marking 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> for optimized recompilation, reason: small function]
+[compiling method 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> (target TURBOFAN) - took 0.128, 111.253, 1.021 ms]
+[completed optimizing 0x388500259f09 <JSFunction test (sfi = 0x388500255915)> (target TURBOFAN)]
+[marking 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> for optimized recompilation, reason: small function]
+[compiling method 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> (target TURBOFAN) - took 0.124, 15.725, 0.780 ms]
+[completed optimizing 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> (target TURBOFAN)]
+[bailout (kind: deopt-eager, reason: not a Smi): begin. deoptimizing 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)>, opt id 17, node id 216, bytecode offset 34, deopt exit 6, FP to SP delta 56, caller SP 0x7ffcb33ad0e8, pc 0x7f74480969a0]
+            ;;; deoptimize at <pages/v8n/v8n-test.js:138:30>
+  reading FeedbackVector (slot 10)
+  reading input frame _applyModifier => bytecode_offset=34, args=3, height=6, retval=0(#0); inputs:
+      0: 0x388500259ec9 ;  [fp -  16]  0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)>
+      1: 0x3885003ad3f1 ;  [fp +  16]  0x3885003ad3f1 <JSProxy>
+      2: 0x3885002d037d ; r8 0x3885002d037d <Object map = 0x388500287fa9>
+      3: 0x3885001c2529 ; r15 0x3885001c2529 <String[5]: #every>
+      4: 0x3885002cfa3d ;  [fp -  32]  0x3885002cfa3d <FunctionContext[19]>
+      5: 0x38850024c2ed ; (literal  5) 0x38850024c2ed <JSFunction push (sfi = 0x3885001e07d1)>
+      6: 0x3885003ad389 ; rax 0x3885003ad389 <JSArray[0]>
+      7: 0x3885003ad401 ; r12 0x3885003ad401 <Modifier map = 0x388500288891>
+      8: 0x3885000028c9 ; (literal  4) 0x3885000028c9 <Odd Oddball: optimized_out>
+      9: 0x3885000028c9 ; (literal  4) 0x3885000028c9 <Odd Oddball: optimized_out>
+     10: 0x3885000028c9 ; (literal  4) 0x3885000028c9 <Odd Oddball: optimized_out>
+     11: 0x3885000028c9 ; (literal  4) 0x3885000028c9 <Odd Oddball: optimized_out>
+  translating interpreted frame _applyModifier => bytecode_offset=34, variable_frame_size=56, frame_size=136
+    0x7ffcb33ad0e0: [top + 128] <- 0x3885001c2529 <String[5]: #every> ;  stack parameter (input #3)
+    0x7ffcb33ad0d8: [top + 120] <- 0x3885002d037d <Object map = 0x388500287fa9> ;  stack parameter (input #2)
+    0x7ffcb33ad0d0: [top + 112] <- 0x3885003ad3f1 <JSProxy> ;  stack parameter (input #1)
+    -------------------------
+    0x7ffcb33ad0c8: [top + 104] <- 0x7f7448095324 ;  bottommost caller's pc
+    0x7ffcb33ad0c0: [top +  96] <- 0x7ffcb33ad140 ;  caller's fp
+    0x7ffcb33ad0b8: [top +  88] <- 0x3885002cfa3d <FunctionContext[19]> ;  context (input #4)
+    0x7ffcb33ad0b0: [top +  80] <- 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> ;  function (input #0)
+    0x7ffcb33ad0a8: [top +  72] <- 0x000000000003 ;  actual argument count
+    0x7ffcb33ad0a0: [top +  64] <- 0x38850026047d <BytecodeArray[42]> ;  bytecode array
+    0x7ffcb33ad098: [top +  56] <- 0x000000000086 <Smi 67> ;  bytecode offset
+    -------------------------
+    0x7ffcb33ad090: [top +  48] <- 0x38850024c2ed <JSFunction push (sfi = 0x3885001e07d1)> ;  stack parameter (input #5)
+    0x7ffcb33ad088: [top +  40] <- 0x3885003ad389 <JSArray[0]> ;  stack parameter (input #6)
+    0x7ffcb33ad080: [top +  32] <- 0x3885003ad401 <Modifier map = 0x388500288891> ;  stack parameter (input #7)
+    0x7ffcb33ad078: [top +  24] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #8)
+    0x7ffcb33ad070: [top +  16] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #9)
+    0x7ffcb33ad068: [top +   8] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #10)
+    0x7ffcb33ad060: [top +   0] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  accumulator (input #11)
+[bailout end. took 0.671 ms]
+Feedback updated from deoptimization at <pages/v8n/v8n-test.js:138:30>, not a Smi
+[deoptimizer found activation of function: get / 3885003ad349]
+[marking 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> (target TURBOFAN) - took 0.127, 25.589, 0.471 ms]
+[completed optimizing 0x3885002cfb21 <JSFunction testAux (sfi = 0x3885002547c1)> (target TURBOFAN)]
+[marking 0x3885002cff15 <JSFunction number (sfi = 0x38850025696d)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002cff15 <JSFunction number (sfi = 0x38850025696d)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885002cff15 <JSFunction number (sfi = 0x38850025696d)> (target TURBOFAN) - took 0.130, 9.031, 0.290 ms]
+[completed optimizing 0x3885002cff15 <JSFunction number (sfi = 0x38850025696d)> (target TURBOFAN)]
+[marking 0x3885003275e9 <JSFunction (sfi = 0x3885002609f5)> for optimized recompilation, reason: small function]
+[compiling method 0x388500327fad <JSFunction (sfi = 0x3885002609f5)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500327fad <JSFunction (sfi = 0x3885002609f5)> (target TURBOFAN) - took 0.125, 24.239, 0.406 ms]
+[completed optimizing 0x388500327fad <JSFunction (sfi = 0x3885002609f5)> (target TURBOFAN)]
+[marking 0x3885000ff715 <JSFunction (sfi = 0x38850026066d)> for optimized recompilation, reason: small function]
+[compiling method 0x388500102201 <JSFunction (sfi = 0x38850026066d)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500102201 <JSFunction (sfi = 0x38850026066d)> (target TURBOFAN) - took 0.124, 58.014, 0.484 ms]
+[completed optimizing 0x388500102201 <JSFunction (sfi = 0x38850026066d)> (target TURBOFAN)]
+[marking 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> for optimized recompilation, reason: small function]
+[compiling method 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> (target TURBOFAN) - took 0.126, 15.603, 0.682 ms]
+[completed optimizing 0x388500259ec9 <JSFunction _applyModifier (sfi = 0x3885002558a5)> (target TURBOFAN)]
+[marking 0x3885002d0451 <JSFunction simple (sfi = 0x388500256079)> for optimized recompilation, reason: small function]
+[marking 0x3885002d0411 <JSFunction simple (sfi = 0x3885002564a1)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002d0451 <JSFunction simple (sfi = 0x388500256079)> (target TURBOFAN) using TurboFan]
+[compiling method 0x3885002d0411 <JSFunction simple (sfi = 0x3885002564a1)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885002d0451 <JSFunction simple (sfi = 0x388500256079)> (target TURBOFAN) - took 0.127, 7.943, 0.230 ms]
+[completed optimizing 0x3885002d0451 <JSFunction simple (sfi = 0x388500256079)> (target TURBOFAN)]
+[optimizing 0x3885002d0411 <JSFunction simple (sfi = 0x3885002564a1)> (target TURBOFAN) - took 0.149, 7.456, 0.182 ms]
+[completed optimizing 0x3885002d0411 <JSFunction simple (sfi = 0x3885002564a1)> (target TURBOFAN)]
+[compiling method 0x3885002598b1 <JSFunction (sfi = 0x388500254371)> (target TURBOFAN) using TurboFan OSR]
+[optimizing 0x3885002598b1 <JSFunction (sfi = 0x388500254371)> (target TURBOFAN) - took 0.130, 319.690, 2.257 ms]
+[not yet optimizing _test, not enough ticks: 1/3 and  too large for small function optimization: 101/81]
+[not yet optimizing _test, not enough ticks: 2/3 and  too large for small function optimization: 101/81]
+[marking 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> (target TURBOFAN) using TurboFan]
+[optimizing 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> (target TURBOFAN) - took 0.130, 69.735, 0.823 ms]
+[completed optimizing 0x388500259db9 <JSFunction _test (sfi = 0x388500255331)> (target TURBOFAN)]
+[bailout (kind: deopt-soft, reason: Insufficient type feedback for unary operation): begin. deoptimizing 0x3885002598b1 <JSFunction (sfi = 0x388500254371)>, opt id 25, node id 168, bytecode offset 286, deopt exit 61, FP to SP delta 160, caller SP 0x7ffcb33ad270, pc 0x7f744809a05f]
+            ;;; deoptimize at <pages/v8n/v8n-test.js:494:26>
+  reading input frame  => bytecode_offset=286, args=1, height=5, retval=0(#0); inputs:
+      0: 0x3885002598b1 ;  [fp -  16]  0x3885002598b1 <JSFunction (sfi = 0x388500254371)>
+      1: 0x388500243669 ;  [fp +  16]  0x388500243669 <JSGlobalProxy>
+      2: 0x388500243679 ;  [fp -  88]  0x388500243679 <NativeContext[269]>
+      3: 0x388500002501 ;  [fp -  96]  0x388500002501 <false>
+      4: 0x3885000028c9 ; (literal 16) 0x3885000028c9 <Odd Oddball: optimized_out>
+      5: 0x3885000028c9 ; (literal 16) 0x3885000028c9 <Odd Oddball: optimized_out>
+      6: 0x3885000028c9 ; (literal 16) 0x3885000028c9 <Odd Oddball: optimized_out>
+      7: 0x3885000028c9 ; (literal 16) 0x3885000028c9 <Odd Oddball: optimized_out>
+      8: 0x388500000000 ; rax 0
+  translating baseline frame  => bytecode_offset=286, variable_frame_size=48, frame_size=112
+    -- 1 extra argument(s) already in the stack --
+    0x7ffcb33ad268: [top + 104] <- 0x388500243669 <JSGlobalProxy> ;  stack parameter (input #1)
+    -------------------------
+    0x7ffcb33ad260: [top +  96] <- 0x7f744f640f5c ;  bottommost caller's pc
+    0x7ffcb33ad258: [top +  88] <- 0x7ffcb33ad288 ;  caller's fp
+    0x7ffcb33ad250: [top +  80] <- 0x388500243679 <NativeContext[269]> ;  context (input #2)
+    0x7ffcb33ad248: [top +  72] <- 0x3885002598b1 <JSFunction (sfi = 0x388500254371)> ;  function (input #0)
+    0x7ffcb33ad240: [top +  64] <- 0x000000000002 ;  actual argument count
+    0x7ffcb33ad238: [top +  56] <- 0x388500254565 <BytecodeArray[300]> ;  bytecode array
+    0x7ffcb33ad230: [top +  48] <- 0x00000000027e <Smi 319> ;  bytecode offset
+    -------------------------
+    0x7ffcb33ad228: [top +  40] <- 0x388500002501 <false> ;  stack parameter (input #3)
+    0x7ffcb33ad220: [top +  32] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #4)
+    0x7ffcb33ad218: [top +  24] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #5)
+    0x7ffcb33ad210: [top +  16] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #6)
+    0x7ffcb33ad208: [top +   8] <- 0x3885000028c9 <Odd Oddball: optimized_out> ;  stack parameter (input #7)
+    0x7ffcb33ad200: [top +   0] <- 0x388500000000 <Smi 0> ;  accumulator (input #8)
+[bailout end. took 0.532 ms]
+[not yet optimizing , not enough ticks: 1/3 and  too large for small function optimization: 300/81]
+[marking 0x3885002cfb81 <JSFunction string (sfi = 0x388500256c3d)> for optimized recompilation, reason: small function]
+[compiling method 0x3885002cfb81 <JSFunction string (sfi = 0x388500256c3d)> (target TURBOFAN) using TurboFan]
+[optimizing 0x3885002cfb81 <JSFunction string (sfi = 0x388500256c3d)> (target TURBOFAN) - took 0.125, 8.603, 0.240 ms]
+[completed optimizing 0x3885002cfb81 <JSFunction string (sfi = 0x388500256c3d)> (target TURBOFAN)]
+[not yet optimizing , not enough ticks: 2/3 and  too large for small function optimization: 300/81]
+[marking 0x3885002598b1 <JSFunction (sfi = 0x388500254371)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x3885002598b1 <JSFunction (sfi = 0x388500254371)> (target TURBOFAN) using TurboFan OSR]
+[optimizing 0x3885002598b1 <JSFunction (sfi = 0x388500254371)> (target TURBOFAN) - took 0.126, 445.439, 3.076 ms]

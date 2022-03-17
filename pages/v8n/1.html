@@ -1,15 +1,21 @@
 <script src="v8n-website.js"></script>
 <script>
 	for(var j = 0; j < 200; j++) {
-		for(var i = 0; i < 100000; i++){
+		for(var i = 0; i < 10000; i++){
 			v8n().
 			string().
 			first("B").
 			test("Bread");
 		}
 		v8n().string().test(2);
-		for(var i = 0; i < 100000; i++){
+		for(var i = 0; i < 10000; i++){
 			v8n().number().test(2);
+			v8n()
+				.some.number()
+				.test([1, 2, "hello"]);
+			v8n()
+				.every.number()
+				.test([1, 2, "hello"]);
 		}
 	}
 </script>

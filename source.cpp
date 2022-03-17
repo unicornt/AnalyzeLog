@@ -5,6 +5,7 @@ const int func_num = 10000;
 enum {init, marked, demarked, compiling, optimizing, optimized};
 string stats[10] = {"init", "marked", "demarked", "compiling", "optimizing", "optimized"};
 map<string, int>sfiTable;
+map<string, string>sfi2name;
 int status[func_num];
 vector<int>slist[func_num]; // list of status
 vector<string>rlist[func_num]; // list of reason(if have)
@@ -91,12 +92,29 @@ string GetReason(string s) {
     return reason;
 }
 
+void PairNameWithSFI(string s) {
+    size_t jpos = s.find("JSFunction");
+    size_t spos = s.find("sfi"); 
+    if(jpos == string::npos || spos == string::npos) {
+        return;
+    }
+    jpos += 10;
+    string name = "";
+    while(jpos < spos) {
+        if(isalpha(s[jpos]) || isalnum(s[jpos])) {
+            name += s[jpos];
+        }
+        jpos ++;
+    }
+    sfi2name[GetSFI(s)] = name;
+}
 
 void Analyze(string s) {
     string sfi;
     int sn;
     if(s[0] != '[') AnalyzeCode(s);
     else {
+        PairNameWithSFI(s);
         switch (s[1])
         {
         // after change status, calcute running times (need add function to v8 source code)
@@ -158,6 +176,7 @@ void Analyze(string s) {
             // record reason
             sfi = GetSFI(s);
             if(sfi == null_str) {
+                if(s.find("end") != string::npos) break;
                 // error
                 throw_error("no sfi code", s);
                 exit(1);
@@ -187,7 +206,7 @@ int main(int argc, char* argv[]) {
     fp.close();
     map<string, int>::iterator it;
     for(it = sfiTable.begin(); it != sfiTable.end(); it++) {
-        cout << it->first << " : " << std::endl;
+        cout << it->first << "(" + sfi2name[it->first] + ")" << " : " << std::endl;
         int sn = it->second;
         for(int i = 0; i < slist[sn].size(); i++) {
             cout << stats[slist[sn][i]] << ' ';

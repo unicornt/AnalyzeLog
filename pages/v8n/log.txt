@@ -1,43 +1,141 @@
-[39496:39496:0304/064120.067970:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
-[39497:39502:0304/064125.158597:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064125.163132:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064125.194612:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064130.084785:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064130.085161:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064130.159848:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064130.164010:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064130.197256:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064135.086166:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064135.086244:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064135.972288:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064138.249826:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064140.973613:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064143.251231:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064148.563617:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064153.565812:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064206.908353:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064211.910588:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064217.258669:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064222.260394:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064225.159263:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064225.166800:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064230.137161:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064230.137583:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064230.160875:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064230.167963:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064235.138887:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064235.139056:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064243.515934:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064248.517231:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064306.565749:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064306.897823:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064306.910205:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064308.504195:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064309.855156:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064310.262806:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064311.567594:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064311.899207:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064311.911596:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064313.505813:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064314.856931:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
-[39497:39502:0304/064315.263568:ERROR:ssl_client_socket_impl.cc(995)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0308/070803.782678:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[0308/070803.802638:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[0308/070803.807876:ERROR:command_buffer_proxy_impl.cc(125)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[marking 0x0707082cc749 <JSFunction proxyContext (sfi = 0x70708294c41)> for optimized recompilation, reason: small function]
+[compiling method 0x0707082cc749 <JSFunction proxyContext (sfi = 0x70708294c41)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707082cc749 <JSFunction proxyContext (sfi = 0x70708294c41)> (target TURBOFAN) - took 0.020, 0.582, 0.016 ms]
+[completed optimizing 0x0707082cc749 <JSFunction proxyContext (sfi = 0x70708294c41)> (target TURBOFAN)]
+[marking 0x0707083bef95 <JSFunction get (sfi = 0x707082986e1)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x0707083bf141 <JSFunction get (sfi = 0x707082986e1)> (target TURBOFAN) using TurboFan]
+[marking 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)> for optimized recompilation, reason: small function]
+[compiling method 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)> (target TURBOFAN) using TurboFan]
+[marking 0x0707083cae59 <JSFunction Context (sfi = 0x70708295049)> for optimized recompilation, reason: small function]
+[compiling method 0x0707083cae59 <JSFunction Context (sfi = 0x70708295049)> (target TURBOFAN) using TurboFan]
+[optimizing 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)> (target TURBOFAN) - took 0.004, 0.722, 0.020 ms]
+[completed optimizing 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)> (target TURBOFAN)]
+[marking 0x0707080ab54d <JSFunction (sfi = 0x70708298a2d)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x0707080ab6f9 <JSFunction (sfi = 0x70708298a2d)> (target TURBOFAN) using TurboFan]
+[optimizing 0x07070804218d <JSFunction get (sfi = 0x707082986e1)> (target TURBOFAN) - took 0.003, 1.614, 0.034 ms]
+[completed optimizing 0x07070804218d <JSFunction get (sfi = 0x707082986e1)> (target TURBOFAN)]
+[optimizing 0x0707083cae59 <JSFunction Context (sfi = 0x70708295049)> (target TURBOFAN) - took 0.009, 0.443, 0.020 ms]
+[completed optimizing 0x0707083cae59 <JSFunction Context (sfi = 0x70708295049)> (target TURBOFAN)]
+[marking 0x0707080c2661 <JSFunction (sfi = 0x70708298ccd)> for optimized recompilation, reason: small function]
+[compiling method 0x0707080c2b09 <JSFunction (sfi = 0x70708298ccd)> (target TURBOFAN) using TurboFan]
+[marking 0x07070840474d <JSFunction pickFn (sfi = 0x70708294afd)> for optimized recompilation, reason: small function]
+[compiling method 0x07070840474d <JSFunction pickFn (sfi = 0x70708294afd)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707080c2b09 <JSFunction (sfi = 0x70708298ccd)> (target TURBOFAN) - took 0.003, 0.470, 0.016 ms]
+[completed optimizing 0x0707080c2b09 <JSFunction (sfi = 0x70708298ccd)> (target TURBOFAN)]
+[optimizing 0x07070840474d <JSFunction pickFn (sfi = 0x70708294afd)> (target TURBOFAN) - took 0.003, 0.280, 0.010 ms]
+[completed optimizing 0x07070840474d <JSFunction pickFn (sfi = 0x70708294afd)> (target TURBOFAN)]
+[optimizing 0x0707082c21bd <JSFunction (sfi = 0x70708298a2d)> (target TURBOFAN) - took 0.003, 1.911, 0.017 ms]
+[completed optimizing 0x0707082c21bd <JSFunction (sfi = 0x70708298a2d)> (target TURBOFAN)]
+[marking 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)> for optimized recompilation, reason: small function]
+[compiling method 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)> (target TURBOFAN) using TurboFan]
+[optimizing 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)> (target TURBOFAN) - took 0.003, 0.332, 0.012 ms]
+[completed optimizing 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)> (target TURBOFAN)]
+[marking 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)> (target TURBOFAN) using TurboFan]
+[optimizing 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)> (target TURBOFAN) - took 0.003, 0.955, 0.027 ms]
+[completed optimizing 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)> (target TURBOFAN)]
+[marking 0x070708297fcd <JSFunction test (sfi = 0x70708295135)> for optimized recompilation, reason: small function]
+[compiling method 0x070708297fcd <JSFunction test (sfi = 0x70708295135)> (target TURBOFAN) using TurboFan]
+[marking 0x070708379e59 <JSFunction (sfi = 0x70708298f59)> for optimized recompilation, reason: small function]
+[compiling method 0x07070837a2b5 <JSFunction (sfi = 0x70708298f59)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707080421f1 <JSFunction (sfi = 0x70708298f59)> (target TURBOFAN) - took 0.006, 1.008, 0.032 ms]
+[completed optimizing 0x0707080421f1 <JSFunction (sfi = 0x70708298f59)> (target TURBOFAN)]
+[optimizing 0x070708297fcd <JSFunction test (sfi = 0x70708295135)> (target TURBOFAN) - took 0.004, 1.919, 0.017 ms]
+[completed optimizing 0x070708297fcd <JSFunction test (sfi = 0x70708295135)> (target TURBOFAN)]
+[marking 0x0707084046bd <JSFunction v8n (sfi = 0x70708294c0d)> for optimized recompilation, reason: small function]
+[compiling method 0x0707084046bd <JSFunction v8n (sfi = 0x70708294c0d)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707084046bd <JSFunction v8n (sfi = 0x70708294c0d)> (target TURBOFAN) - took 0.003, 0.666, 0.015 ms]
+[completed optimizing 0x0707084046bd <JSFunction v8n (sfi = 0x70708294c0d)> (target TURBOFAN)]
+[marking 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> for optimized recompilation, reason: hot and stable]
+[marking 0x0707082e6e51 <JSFunction (sfi = 0x70708298e7d)> for optimized recompilation, reason: small function]
+[compiling method 0x0707082e728d <JSFunction (sfi = 0x70708298e7d)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707082e728d <JSFunction (sfi = 0x70708298e7d)> (target TURBOFAN) - took 0.003, 0.601, 0.011 ms]
+[completed optimizing 0x0707082e728d <JSFunction (sfi = 0x70708298e7d)> (target TURBOFAN)]
+[marking 0x07070840476d <JSFunction testType (sfi = 0x70708294d71)> for optimized recompilation, reason: small function]
+[marking 0x07070840478d <JSFunction first (sfi = 0x70708295f15)> for optimized recompilation, reason: small function]
+[compiling method 0x07070840476d <JSFunction testType (sfi = 0x70708294d71)> (target TURBOFAN) using TurboFan]
+[compiling method 0x07070840478d <JSFunction first (sfi = 0x70708295f15)> (target TURBOFAN) using TurboFan]
+[optimizing 0x07070840476d <JSFunction testType (sfi = 0x70708294d71)> (target TURBOFAN) - took 0.003, 0.335, 0.015 ms]
+[completed optimizing 0x07070840476d <JSFunction testType (sfi = 0x70708294d71)> (target TURBOFAN)]
+[optimizing 0x07070840478d <JSFunction first (sfi = 0x70708295f15)> (target TURBOFAN) - took 0.003, 0.317, 0.006 ms]
+[completed optimizing 0x07070840478d <JSFunction first (sfi = 0x70708295f15)> (target TURBOFAN)]
+[compiling method 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> (target TURBOFAN) using TurboFan OSR]
+[optimizing 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> (target TURBOFAN) - took 0.003, 5.817, 0.034 ms]
+[bailout (kind: deopt-soft, reason: Insufficient type feedback for call): begin. deoptimizing 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)>, opt id 15, bytecode offset 109, deopt exit 38, FP to SP delta 168, caller SP 0x7ffda75d5e00, pc 0x07070004aaba]
+[bailout (kind: deopt-soft, reason: Insufficient type feedback for generic named access): begin. deoptimizing 0x070708306dfd <JSFunction get (sfi = 0x707082986e1)>, opt id 1, bytecode offset 45, deopt exit 10, FP to SP delta 88, caller SP 0x7ffda75d56d0, pc 0x070700046230]
+[bailout (kind: deopt-eager, reason: wrong map): begin. deoptimizing 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)>, opt id 2, bytecode offset 18, deopt exit 4, FP to SP delta 64, caller SP 0x7ffda75d5660, pc 0x070700045a27]
+[bailout (kind: deopt-eager, reason: wrong map): begin. deoptimizing 0x070708297fcd <JSFunction test (sfi = 0x70708295135)>, opt id 9, bytecode offset 0, deopt exit 6, FP to SP delta 96, caller SP 0x7ffda75d5d98, pc 0x070700048eb5]
+[bailout (kind: deopt-eager, reason: wrong map): begin. deoptimizing 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)>, opt id 7, bytecode offset 0, deopt exit 1, FP to SP delta 32, caller SP 0x7ffda75d5b88, pc 0x0707000480fe]
+[bailout (kind: deopt-eager, reason: wrong map): begin. deoptimizing 0x07070830764d <JSFunction (sfi = 0x70708298f59)>, opt id 10, bytecode offset 0, deopt exit 2, FP to SP delta 64, caller SP 0x7ffda75d5c98, pc 0x0707000488bf]
+[bailout (kind: deopt-eager, reason: wrong map): begin. deoptimizing 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)>, opt id 8, bytecode offset 0, deopt exit 2, FP to SP delta 48, caller SP 0x7ffda75d5c38, pc 0x0707000484aa]
+[marking 0x0707080d6811 <JSFunction get (sfi = 0x707082986e1)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x0707080d6899 <JSFunction get (sfi = 0x707082986e1)> (target TURBOFAN) using TurboFan]
+[marking 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)> for optimized recompilation, reason: small function]
+[compiling method 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)> (target TURBOFAN) using TurboFan]
+[marking 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)> for optimized recompilation, reason: small function]
+[compiling method 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)> (target TURBOFAN) using TurboFan]
+[optimizing 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)> (target TURBOFAN) - took 0.004, 0.664, 0.025 ms]
+[completed optimizing 0x070708297fad <JSFunction _clone (sfi = 0x70708295101)> (target TURBOFAN)]
+[optimizing 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)> (target TURBOFAN) - took 0.004, 0.995, 0.017 ms]
+[completed optimizing 0x07070840472d <JSFunction testAux (sfi = 0x70708294b31)> (target TURBOFAN)]
+[optimizing 0x0707082c221d <JSFunction get (sfi = 0x707082986e1)> (target TURBOFAN) - took 0.006, 1.642, 0.018 ms]
+[completed optimizing 0x0707082c221d <JSFunction get (sfi = 0x707082986e1)> (target TURBOFAN)]
+[marking 0x070708297fcd <JSFunction test (sfi = 0x70708295135)> for optimized recompilation, reason: small function]
+[compiling method 0x070708297fcd <JSFunction test (sfi = 0x70708295135)> (target TURBOFAN) using TurboFan]
+[marking 0x070708107d05 <JSFunction (sfi = 0x707082a01e5)> for optimized recompilation, reason: small function]
+[compiling method 0x070708107d05 <JSFunction (sfi = 0x707082a01e5)> (target TURBOFAN) using TurboFan]
+[optimizing 0x070708107d05 <JSFunction (sfi = 0x707082a01e5)> (target TURBOFAN) - took 0.004, 0.360, 0.013 ms]
+[completed optimizing 0x070708107d05 <JSFunction (sfi = 0x707082a01e5)> (target TURBOFAN)]
+[marking 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)> for optimized recompilation, reason: small function]
+[compiling method 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)> (target TURBOFAN) using TurboFan]
+[marking 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)> (target TURBOFAN) using TurboFan]
+[optimizing 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)> (target TURBOFAN) - took 0.005, 0.500, 0.021 ms]
+[completed optimizing 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)> (target TURBOFAN)]
+[bailout (kind: deopt-eager, reason: not a Smi): begin. deoptimizing 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)>, opt id 21, bytecode offset 34, deopt exit 6, FP to SP delta 56, caller SP 0x7ffda75d5cc8, pc 0x07070004c1d8]
+[optimizing 0x070708297fcd <JSFunction test (sfi = 0x70708295135)> (target TURBOFAN) - took 0.005, 3.626, 0.032 ms]
+[completed optimizing 0x070708297fcd <JSFunction test (sfi = 0x70708295135)> (target TURBOFAN)]
+[optimizing 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)> (target TURBOFAN) - took 0.003, 2.252, 0.019 ms]
+[completed optimizing 0x070708297e45 <JSFunction _test (sfi = 0x70708294ed9)> (target TURBOFAN)]
+[marking 0x0707083cb519 <JSFunction number (sfi = 0x707082958a1)> for optimized recompilation, reason: small function]
+[compiling method 0x0707083cb519 <JSFunction number (sfi = 0x707082958a1)> (target TURBOFAN) using TurboFan]
+[marking 0x0707082c2b95 <JSFunction (sfi = 0x707082a08f5)> for optimized recompilation, reason: small function]
+[compiling method 0x0707082c3559 <JSFunction (sfi = 0x707082a08f5)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707083cb519 <JSFunction number (sfi = 0x707082958a1)> (target TURBOFAN) - took 0.004, 0.434, 0.028 ms]
+[completed optimizing 0x0707083cb519 <JSFunction number (sfi = 0x707082958a1)> (target TURBOFAN)]
+[optimizing 0x0707082c3559 <JSFunction (sfi = 0x707082a08f5)> (target TURBOFAN) - took 0.014, 0.985, 0.014 ms]
+[completed optimizing 0x0707082c3559 <JSFunction (sfi = 0x707082a08f5)> (target TURBOFAN)]
+[marking 0x070708052d41 <JSFunction (sfi = 0x707082a0575)> for optimized recompilation, reason: small function]
+[compiling method 0x0707080536e5 <JSFunction (sfi = 0x707082a0575)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707080536e5 <JSFunction (sfi = 0x707082a0575)> (target TURBOFAN) - took 0.006, 1.048, 0.017 ms]
+[completed optimizing 0x0707080536e5 <JSFunction (sfi = 0x707082a0575)> (target TURBOFAN)]
+[marking 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> for optimized recompilation, reason: hot and stable]
+[marking 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)> for optimized recompilation, reason: small function]
+[compiling method 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)> (target TURBOFAN) using TurboFan]
+[optimizing 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)> (target TURBOFAN) - took 0.004, 0.476, 0.015 ms]
+[completed optimizing 0x070708297f8d <JSFunction _applyModifier (sfi = 0x707082950cd)> (target TURBOFAN)]
+[marking 0x0707083cba55 <JSFunction simple (sfi = 0x707082954a1)> for optimized recompilation, reason: small function]
+[marking 0x0707083cba15 <JSFunction simple (sfi = 0x70708295649)> for optimized recompilation, reason: small function]
+[compiling method 0x0707083cba55 <JSFunction simple (sfi = 0x707082954a1)> (target TURBOFAN) using TurboFan]
+[compiling method 0x0707083cba15 <JSFunction simple (sfi = 0x70708295649)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707083cba15 <JSFunction simple (sfi = 0x70708295649)> (target TURBOFAN) - took 0.002, 0.280, 0.014 ms]
+[completed optimizing 0x0707083cba15 <JSFunction simple (sfi = 0x70708295649)> (target TURBOFAN)]
+[optimizing 0x0707083cba55 <JSFunction simple (sfi = 0x707082954a1)> (target TURBOFAN) - took 0.004, 0.289, 0.008 ms]
+[completed optimizing 0x0707083cba55 <JSFunction simple (sfi = 0x707082954a1)> (target TURBOFAN)]
+[compiling method 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> (target TURBOFAN) using TurboFan OSR]
+[optimizing 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> (target TURBOFAN) - took 0.004, 9.117, 0.040 ms]
+[bailout (kind: deopt-soft, reason: Insufficient type feedback for unary operation): begin. deoptimizing 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)>, opt id 29, bytecode offset 277, deopt exit 61, FP to SP delta 160, caller SP 0x7ffda75d5e00, pc 0x07070005071c]
+[marking 0x0707083cb579 <JSFunction string (sfi = 0x70708295a09)> for optimized recompilation, reason: small function]
+[compiling method 0x0707083cb579 <JSFunction string (sfi = 0x70708295a09)> (target TURBOFAN) using TurboFan]
+[optimizing 0x0707083cb579 <JSFunction string (sfi = 0x70708295a09)> (target TURBOFAN) - took 0.005, 0.314, 0.016 ms]
+[completed optimizing 0x0707083cb579 <JSFunction string (sfi = 0x70708295a09)> (target TURBOFAN)]
+[marking 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> (target TURBOFAN) using TurboFan OSR]
+[optimizing 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> (target TURBOFAN) - took 0.005, 13.900, 0.053 ms]
+[bailout (kind: deopt-eager, reason: wrong call target): begin. deoptimizing 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)>, opt id 31, bytecode offset 118, deopt exit 51, FP to SP delta 160, caller SP 0x7ffda75d5e00, pc 0x070700053e89]
+[marking 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> for optimized recompilation, reason: hot and stable]
+[compiling method 0x0707082984e1 <JSFunction (sfi = 0x707082981a1)> (target TURBOFAN) using TurboFan OSR]
+[optimiz
